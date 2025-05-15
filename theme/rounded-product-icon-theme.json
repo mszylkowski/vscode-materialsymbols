@@ -781,13 +781,15 @@
       "fontCharacter": "\\f045" // Pin
     },
     "pinned": {
-      "fontCharacter": "\\e177" // Where to vote
+      "fontCharacter": "\\e6aa", // Keep
+      "fontId": "material-icons-outline"
     },
     "pinned-dirty": {
-      "fontCharacter": "\\e568" // Edit location
+      "fontCharacter": "\\e6aa", // Keep
+      "fontId": "material-icons-outline"
     },
     "pin": {
-      "fontCharacter": "\\e0c8" // Location on
+      "fontCharacter": "\\e6aa" // Keep
     },
     "symbol-structure": {
       "fontCharacter": "\\e9b0" // Grid view
