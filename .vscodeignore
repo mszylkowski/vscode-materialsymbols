@@ -1,0 +1,8 @@
+.vscodeignore
+.vscode/**
+.git/**
+*.code-workspace
+references/
+pnpm-lock.yaml
+.gitignore
+theme/*.html
