@@ -1,6 +1,15 @@
-# Material Symbols Product Icons
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/mszylkowski/vscode-materialsymbols/refs/heads/main/icon.png" alt="logo" width="200">
+<br/>
+Material Rounded Product Icons
+</h1>
 
-Adds the new [Material Symbols](https://fonts.google.com/icons?icon.style=Rounded) to [VSCode](https://code.visualstudio.com/)'s interface, using the rounded filled variants for most icons and rounded outlined variants for some icon variations.
+<p align="center">
+<img src="https://img.shields.io/visual-studio-marketplace/v/mszylkowski.materialsymbols?style=for-the-badge" alt="Version">
+<img src="https://img.shields.io/visual-studio-marketplace/i/mszylkowski.materialsymbols?style=for-the-badge" alt="Installs">
+</p>
+
+Adds the new [Material Rounded Symbols](https://fonts.google.com/icons?icon.style=Rounded) to [VSCode](https://code.visualstudio.com/)'s interface, using the rounded filled variants for most icons and rounded outlined variants for some icon variations.
 
 ![screenshot](./theme/rounded-screenshot.png)
 

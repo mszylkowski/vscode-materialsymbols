@@ -1,7 +1,7 @@
 {
   "name": "materialsymbols",
-  "displayName": "Material Symbols Product Icons",
-  "description": "Add a fresh coat of paint to VSCode with the first Material Symbols icon set.",
+  "displayName": "Material Rounded Product Icons",
+  "description": "Add a fresh coat of paint to VSCode with rounded Material Icons.",
   "publisher": "mszylkowski",
   "version": "1.0.1",
   "engines": {
